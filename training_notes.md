@@ -8,6 +8,7 @@
 
 #### link to check later:
 #### https://pypi.org/project/defusedxml/
+#### https://docs.celeryq.dev/en/stable/userguide/routing.html
 
 
 #### os — Miscellaneous operating system interfaces
