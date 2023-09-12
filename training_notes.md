@@ -1,4 +1,4 @@
-# Notes  
+## Notes  
 
 #### The instructor: Eric Greene, eric@cloudcontraptions.com
 
